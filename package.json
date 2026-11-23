@@ -1,0 +1,1 @@
+{"description":"Meme Sprint 3: AI Agent Goes Rogue — a smug robot takes its human's desk job. Entry program copies meme.png to /output/entry.png.","name":"u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6","scripts":{"start":"node main.ts","verify":"node verify.mjs"},"type":"module","version":"1.0.0"}
